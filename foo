@@ -1,5 +1,9 @@
 this is on top.
 
-this is a sentence. (for bugfix)
+<<<<<<< HEAD
+this is a sentence. (for bugfix) (for feature)
+=======
+this is a sentence.
+>>>>>>> feature/new-button
 
 this is a new sentence.
